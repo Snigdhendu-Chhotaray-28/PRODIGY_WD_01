@@ -22,3 +22,4 @@ This project is a responsive landing page developed as part of the Prodigy InfoT
 
 ## Preview
 
+![Image](https://github.com/Snigdhendu-Chhotaray-28/PRODIGY_WD_01/issues/1#issue-3258285821)
